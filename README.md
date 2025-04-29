@@ -15,4 +15,4 @@
 6. 克隆仓库：
 7. 运行以下命令将项目克隆到本地：
    ```bash
-   git clone https://github.com/username/project-name.git
+   git clone https://github.com/LINXIRUOQ/labelImg-sorted.git
